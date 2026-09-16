@@ -1,0 +1,10 @@
+{
+  "name": "Wedding Studio Face-Scan Gallery",
+  "description": "Smart wedding studio mobile app with QR event check-in, real-time facial recognition, secure cloud gallery storage, and personalized guest photo delivery.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
